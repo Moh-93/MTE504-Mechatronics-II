@@ -1,6 +1,10 @@
 # **MTE504 Mechatronics II**
 This is repository for the course conducted at Misr University for Science and Technology, Mechatronics department. Each mini project will be posted in **separate project**.
 
+**29-02-2016**
+- Added VDI 2206 guidelines: Design methodology for
+mechatronic systems
+
 **27-02-2016**
  - Added Sequential logic LabVIEW code
 
